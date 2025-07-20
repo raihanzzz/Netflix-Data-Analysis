@@ -5,7 +5,7 @@ Exploring 9000+ Netflix movies to uncover trends and answer key business questio
 ---
 
 ## 📂 Project Structure
-
+---
 Netflix-Data-Analysis/
 ├── dataset/
 │   └── mymoviedb.csv
@@ -16,7 +16,7 @@ Netflix-Data-Analysis/
 ├── assets/
 │    └── screenshots
 └── README.md
-    
+--- 
 
 
 
