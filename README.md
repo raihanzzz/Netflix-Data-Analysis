@@ -5,12 +5,19 @@ Exploring 9000+ Netflix movies to uncover trends and answer key business questio
 ---
 
 ## 📂 Project Structure
-.
-├── assets/ 📸 Preview images & screenshots
-├── dataset/ 📂 Raw dataset (CSV / Excel)
-├── notebook/ 📒 Jupyter notebook with analysis
-├── presentation/ 🎥 PPT slides
-└── README.md 📝 Project documentation
+
+Netflix-Data-Analysis/
+├── dataset/
+│   └── mymoviedb.csv
+├── notebook/
+│   └── Netflix.ipynb
+├── presentation/
+│   └── Netflix Data Analytics.pptx
+├── assets/
+│    └── screenshots
+└── README.md
+    
+
 
 
 ---
